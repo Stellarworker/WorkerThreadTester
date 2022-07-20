@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkerThreadTester</string>
+    <string name="test_message">WorkerThread is testing. See Logcat for details
+        (keyword: WORKER_THREAD).</string>
 </resources>
